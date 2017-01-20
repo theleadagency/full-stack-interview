@@ -1,0 +1,30 @@
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
+
+header {
+    padding: 10px 0;
+    border-bottom: solid 3px #8c8c8c;
+}
+
+footer {
+    background-color: #222222;
+    text-align: center;
+    color: #EAEAEA;
+}
