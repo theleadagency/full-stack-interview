@@ -27,7 +27,8 @@ output of the previous step in subsequent tasks.
 2. InterviewTest database backup
 4. Design Files & Assets for the finished product
 
-## Database
+## What to do
+### Database
 Locate the database in SQL Server Management Studio. In it are 2 tables
 based on car manufacturers & ranges. These tables already have their
 primary keys created for you and contain some sample data.
@@ -48,7 +49,7 @@ primary keys created for you and contain some sample data.
     WHERE ManufacturerName = 'Ford'
     ```
 
-## C\# ASP.NET MVC
+### C\# ASP.NET MVC
 The provided Visual Studio solution contains an ASP.NET MVC project.
 -   The List action of the RangeController should return a view for each
     Manufacturer that can present the following data:
@@ -79,3 +80,11 @@ The provided Visual Studio solution contains an ASP.NET MVC project.
         taps a range name the image should then get displayed (as
         illustrated by the BMW 2 Series in the design). When they tap
         the range name again, the image should be hidden
+        
+## When your finished
+1. Bundle up your repository using the following command:
+    ```bash
+    git bundle create full-stack-interview.bundle --all
+    ```
+2. Upload the file you just created **"full-stack-interview.bundle"** to your prefered file sharing provider
+3. Finally email us the download link: <luke.miles@theleadagency.com>
