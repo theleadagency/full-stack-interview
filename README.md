@@ -87,4 +87,4 @@ The provided Visual Studio solution contains an ASP.NET MVC project.
     git bundle create full-stack-interview.bundle --all
     ```
 2. Upload the file you just created **"full-stack-interview.bundle"** to your prefered file sharing provider
-3. Finally email us the download link: <luke.miles@theleadagency.com>
+3. Finally email us the download link: <michael.fitzsimmons@theleadagency.com>
